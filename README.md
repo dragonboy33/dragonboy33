@@ -1,10 +1,69 @@
-- 👋 Hi, I’m @pedro
-- 👀 I’m interested in assistir anime...
-- 🌱 I’m currently learning pensamento cunpacional ...
-- 💞️ I’m looking to collaborate on  com o meu professor ...
-- 📫 How to reach me gmail...
- 
-<!---
-dragonboy33/dragonboy33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="br-pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ADOTEPETZ
+    O Programa Adote Petz é a conexão que faltava entre você e o seu melhor amigo: através do cadastro e atuação de ONGs/
+    protetores independentes e diversas instituições parceiras, milhares de cães e gatos têm a chance de encontrar um lar todos os dias.
+    Para nós, adotar é um momento de felicidade, que deve ser construído com parceria, cuidado e responsabilidade.
+
+Somos uma rede de apaixonados por petincentivar a adoção, conscientizar sobre a posse responsável e ajudar a diminuir o índice de animais abandonados
+    através de projetos e ações para melhoria de bem estar de pets e instituições parceiras em todo o Brasil.
+se queremos 
+Funciona assim: o programa Adote Petz cadastra ONGs/protetores independentes para que cães e gatos tenham uma chance de encontrar um lar. 
+    A Petz disponibiliza espaços permanentes dedicados à adoção no centro de suas lojas, sendo todo o processo conduzido pelos parceiros, conforme orientações sobre posse responsável
+    . Todos os pets e o processo de adoção são de responsabilidade exclusiva das ONGs/protetores.
+    A vantagem dessa união entre a Petz e as ONGs/protetores é que os adotantes passam por todo o processo de adoção em um só lugar
+    e ainda conta com todo suporte necessário neste momento tão importante.
+O QUE EU DEVO FAZER PARA ADOTAR MEU MELHOR AMIGO AGORA?
+Para adotar, você pode ir presencialmente à uma loja Petz que tenha espaço dedicado à adoção. Você pode consultar a lista de lojas aqui.
+    Como a nossa intenção é fazer você se apaixonar por um pet agora mesmo, disponibilizamos diversos cães e gatos de ONGs/protetores selecionados aqui no nosso site para que você já escolha um.
+    Que tal?
+
+Se você se apaixonar por um dos pets aqui no site , basta preencher o formulário de interesse online e esperar o contato da ONG/protetor para marcar de conhecer o pet presencialmente em uma das lojas Petz, e assim,
+    prosseguir com o processo de adoção
+    . O contato da ONG/protetor é feito em até 48h depois de enviado o formulário.
+
+Caso você decida ir diretamente à Petz, basta se apaixonar por um cão e/ou gato na própria loja, passar pela entrevista com um voluntário da ONG/protetor, receber a resposta da aprovação na hora, e caso aprovado, já levar o seu pet para casa!
+
+Se na loja não estiver um voluntário da ONG/protetor presente, não tem problema nenhum! Você se apaixona por um pet
+    , preenche o formulário de interesse online que você encontra aqui e espera o contato da ONG/protetor para fazer a entrevista e dar a resposta sobre a aprovação
+     Caso seja aprovado, a ONG/protetor e você marcam o dia para buscar seu pet na loja Petz combinada.
+
+Super fácil, né? Você pode adotar indo em uma loja Petz ou se apaixonando por um dos pets de forma online, não importa!
+ O programa Adote Petz considera que proporcionar o encontro entre quem quer adotar e o pet escolhido
+    , é poder vivenciar todos os dias, momentos de felicidade da sua vida
+    aqui você pode encontrar as seguintes raças 
+    1:dogue alemão
+    2:fila brasileiro
+    3:golden retriver
+    5:husky siberiano
+    6:beagle
+    7:border collie
+    8:chow chow
+    9:dogue argentino
+
+    aqui Você pode encontrar produtos  para seu bichinho
+
+bolas de plastico 
+ração
+brinquedos
+coleiras
+caminhas 
+e tudo mais  
+
+aqui tanbem temos gatos  
+
+1:persa 
+2:sphynx e os gatos sem pelos
+3:siames
+4:bengai
+
+entre outros nos tambem temos peixes,coelhos e aves
+
+</html>
